@@ -1,0 +1,374 @@
+2025-05-20 17:36:56 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 17:36:58 WARN  BaseTest:30 - Login test with invalid credentials captured.
+2025-05-20 17:37:13 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 17:37:15 INFO  BaseTest:19 - Login test passed.
+2025-05-20 18:07:59 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:08:01 WARN  BaseTest:30 - Login test with invalid credentials captured.
+2025-05-20 18:08:13 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:08:15 INFO  BaseTest:19 - Login test passed.
+2025-05-20 18:13:42 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:13:44 WARN  BaseTest:30 - Login test with invalid credentials captured.
+2025-05-20 18:13:57 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:13:59 INFO  BaseTest:19 - Login test passed.
+2025-05-20 18:24:31 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:24:33 INFO  BaseTest:32 - Captured error message: Your username is invalid!
+×
+2025-05-20 18:24:46 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:24:48 INFO  BaseTest:19 - Login test passed.
+2025-05-20 18:26:45 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:26:47 INFO  BaseTest:33 - Captured error message: Your username is invalid!
+×
+2025-05-20 18:26:59 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 18:27:01 INFO  BaseTest:20 - Login test passed.
+2025-05-20 19:39:44 INFO  BaseTest:56 - Browser launched with URL: https://the-internet.herokuapp.com/login
+2025-05-20 19:39:45 INFO  BaseTest:16 - Alert test passed.
+2025-05-21 18:25:30 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 18:25:32 INFO  BaseTest:17 - Captured error message: Your email or password is incorrect!
+2025-05-21 18:25:33 ERROR BaseTest:63 - Test failed. Screenshot captured.
+2025-05-21 18:25:45 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 18:25:50 INFO  BaseTest:28 - Login test passed.
+2025-05-21 18:28:59 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 18:29:07 INFO  BaseTest:28 - Login test passed.
+2025-05-21 18:33:07 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:00:58 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:00:59 ERROR BaseTest:63 - Test failed. Screenshot captured.
+2025-05-21 21:34:25 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:35:52 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:42:06 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:42:21 ERROR BaseTest:63 - Test failed. Screenshot captured.
+2025-05-21 21:43:57 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:47:15 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 21:47:23 ERROR BaseTest:63 - Test failed. Screenshot captured.
+2025-05-21 22:22:52 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:22:59 ERROR BaseTest:63 - Test failed. Screenshot captured.
+2025-05-21 22:26:10 INFO  BaseTest:56 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:26:20 ERROR BaseTest:63 - Test failed. Screenshot captured.
+2025-05-21 22:34:42 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:34:45 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 22:48:33 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 22:49:03 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:49:05 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 22:49:57 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 22:50:10 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:50:13 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 22:57:12 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 22:57:40 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:57:42 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 22:58:53 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 22:59:07 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 22:59:10 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 23:14:15 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 23:14:43 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 23:14:46 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 23:15:51 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 23:16:06 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 23:16:08 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 23:17:23 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 23:17:38 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 23:17:40 ERROR BaseTest:66 - Test failed. Screenshot captured.
+2025-05-21 23:20:52 INFO  BaseTest:41 - Launching browser: chrome
+2025-05-21 23:21:21 INFO  BaseTest:59 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 23:54:24 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-21 23:54:48 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-21 23:54:53 ERROR BaseTest:83 - Test failed. Screenshot captured.
+2025-05-21 23:59:09 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-21 23:59:25 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 00:05:40 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-22 00:06:12 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 00:16:52 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-22 00:17:23 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 00:24:14 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-22 00:24:51 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 00:40:37 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-22 00:41:07 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 13:12:48 INFO  BaseTest:49 - Launching browser: chrome
+2025-05-22 13:13:18 INFO  BaseTest:67 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:07:12 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:07:42 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:08:08 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 14:09:50 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:10:03 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:12:25 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:12:54 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:22:43 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:23:13 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:23:25 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 14:30:23 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:30:55 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:31:20 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 14:37:32 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:38:04 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:38:26 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 14:42:56 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:43:25 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:43:44 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 14:54:24 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:54:54 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:55:14 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 14:59:13 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 14:59:26 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 14:59:45 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 15:04:19 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 15:04:47 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:05:09 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 15:06:00 INFO  BaseTest:55 - Launching browser: chrome
+2025-05-22 15:06:22 INFO  BaseTest:73 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:06:47 ERROR BaseTest:92 - Test failed. Screenshot captured.
+2025-05-22 15:09:00 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:09:16 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:09:33 ERROR BaseTest:95 - Test failed. Screenshot captured.
+2025-05-22 15:13:47 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:14:20 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:14:29 ERROR BaseTest:95 - Test failed. Screenshot captured.
+2025-05-22 15:21:47 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:22:14 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:24:03 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:24:16 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:26:22 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:26:32 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:26:51 ERROR BaseTest:95 - Test failed. Screenshot captured.
+2025-05-22 15:40:32 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:40:54 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:40:58 INFO  BaseTest:16 - home page trueopened
+2025-05-22 15:41:00 INFO  BaseTest:19 - clicked on  Signup/Login button
+2025-05-22 15:41:04 INFO  BaseTest:22 - Login page trueopened
+2025-05-22 15:41:12 INFO  BaseTest:29 - logged with email and password are bashaboinaraju939@gmail.com Capstone@123
+2025-05-22 15:41:12 INFO  BaseTest:31 - Logged page trueopened
+2025-05-22 15:41:17 INFO  BaseTest:36 - clicked on  Logout button
+2025-05-22 15:41:38 ERROR BaseTest:95 - Test failed. Screenshot captured.
+2025-05-22 15:45:42 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:46:05 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:46:10 INFO  BaseTest:16 - home page true opened
+2025-05-22 15:46:11 INFO  BaseTest:19 - clicked on  Signup/Login button
+2025-05-22 15:46:15 INFO  BaseTest:22 - Login page true opened
+2025-05-22 15:46:31 INFO  BaseTest:29 - logged with email and password are bashaboinaraju939@gmail.com Capstone@123
+2025-05-22 15:46:31 INFO  BaseTest:31 - Logged page true opened
+2025-05-22 15:46:36 INFO  BaseTest:36 - clicked on  Logout button
+2025-05-22 15:46:36 INFO  BaseTest:38 - Home page true opened
+2025-05-22 15:51:03 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:56:17 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 15:56:33 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 15:56:37 INFO  BaseTest:18 - home page is opened
+2025-05-22 15:56:38 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-22 15:56:43 INFO  BaseTest:26 - Login to your account page is opened
+2025-05-22 15:57:02 INFO  BaseTest:32 - logged with email and password are bashaboinaraju939@gmail.com Capstone@123
+2025-05-22 15:57:02 INFO  BaseTest:36 - Login test is passed
+2025-05-22 15:57:07 INFO  BaseTest:40 - Successfully clicked on  Logout button
+2025-05-22 15:57:07 INFO  BaseTest:44 - redirected to login page
+2025-05-22 16:11:32 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 16:11:56 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 16:11:57 INFO  BaseTest:14 - home page is opened
+2025-05-22 16:12:01 INFO  BaseTest:17 - clicked on  Products button
+2025-05-22 16:12:02 INFO  BaseTest:21 - one Product is added to cart
+2025-05-22 16:12:08 INFO  BaseTest:28 -  Cart page is opened to see products
+2025-05-22 16:12:12 INFO  BaseTest:32 - one Product is present in cart
+2025-05-22 16:12:12 INFO  BaseTest:37 - ProductDetails are "Rs. 500", "1", "Rs. 500" 
+2025-05-22 16:13:44 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 16:13:58 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 16:13:58 INFO  BaseTest:14 - home page is opened
+2025-05-22 16:14:03 INFO  BaseTest:17 - clicked on  Products button
+2025-05-22 16:14:04 INFO  BaseTest:21 - one Product is added to cart
+2025-05-22 16:14:10 INFO  BaseTest:28 -  Cart page is opened to see products
+2025-05-22 16:14:14 INFO  BaseTest:32 - one Product is present in cart
+2025-05-22 16:14:14 INFO  BaseTest:37 - Product Details are price :"Rs. 500", Quantity: "1",  total:"Rs. 500" 
+2025-05-22 16:24:52 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 16:25:21 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 16:25:21 INFO  BaseTest:18 - home page is opened
+2025-05-22 16:25:23 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-22 16:25:27 INFO  BaseTest:25 - New User Signup! is visible
+2025-05-22 16:25:29 INFO  BaseTest:31 - signup successfully with email and name are user1235@test.com JohnDoe4
+2025-05-22 16:26:14 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 16:26:29 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 16:26:29 INFO  BaseTest:18 - home page is opened
+2025-05-22 16:26:31 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-22 16:26:35 INFO  BaseTest:25 - New User Signup! is visible
+2025-05-22 16:26:38 INFO  BaseTest:31 - signup successfully with email and name are user123@test.com JohnDoe12
+2025-05-22 16:27:41 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 16:27:54 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 16:27:55 INFO  BaseTest:18 - home page is opened
+2025-05-22 16:27:56 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-22 16:28:00 INFO  BaseTest:25 - New User Signup! is visible
+2025-05-22 16:28:03 INFO  BaseTest:31 - signup successfully with email and name are sravan123@test.com sravan
+2025-05-22 16:28:03 INFO  BaseTest:34 - ENTER ACCOUNT INFORMATION is visible
+2025-05-22 16:28:08 INFO  BaseTest:38 - Filled AccountDetails successfully
+2025-05-22 16:28:10 INFO  BaseTest:41 - clicked on CreateAccount button
+2025-05-22 16:28:10 INFO  BaseTest:44 - ACCOUNT CREATED! successfully
+2025-05-22 16:28:16 INFO  BaseTest:47 - clicked on Contintue button
+2025-05-22 16:28:16 INFO  BaseTest:50 - Logged in  name as sravan
+2025-05-22 16:30:06 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 16:30:36 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 16:30:40 INFO  BaseTest:18 - home page is opened
+2025-05-22 16:30:42 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-22 16:30:46 INFO  BaseTest:26 - Login to your account page is opened
+2025-05-22 16:30:54 INFO  BaseTest:32 - logged with email and password are bashaboinaraju939@gmail.com Capstone@123
+2025-05-22 16:30:54 INFO  BaseTest:36 - Login test is passed
+2025-05-22 16:31:00 INFO  BaseTest:40 - Successfully clicked on  Logout button
+2025-05-22 16:31:00 INFO  BaseTest:44 - redirected to login page
+2025-05-22 17:08:06 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:08:36 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:08:41 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:08:54 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:09:00 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:09:14 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:09:22 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:09:34 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:09:39 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:09:52 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:12:12 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:12:25 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:12:46 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-22 17:32:29 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:33:04 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:33:04 INFO  BaseTest:28 - Captured Homepage Screenshot
+2025-05-22 17:33:12 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:33:29 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:33:49 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:34:02 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:34:05 INFO  BaseTest:19 - clicked on  contacts button
+2025-05-22 17:34:09 INFO  BaseTest:22 - opened contact page
+2025-05-22 17:34:15 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:34:28 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:34:38 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:34:50 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:37:13 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:37:26 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:37:27 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-22 17:47:35 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:48:04 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:48:05 INFO  BaseTest:30 - Captured Homepage Screenshot
+2025-05-22 17:48:14 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:48:28 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:48:36 INFO  BaseTest:89 -  testcase testAlertExample passed
+2025-05-22 17:48:46 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:49:02 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:49:04 INFO  BaseTest:21 - clicked on  contacts button
+2025-05-22 17:49:08 INFO  BaseTest:24 - opened contact page by using testcase testClickUsingJS
+2025-05-22 17:49:14 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:49:29 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:49:41 INFO  BaseTest:61 -  testcase testHoverAction passed
+2025-05-22 17:50:13 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:50:27 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:50:28 INFO  BaseTest:30 - Captured Homepage Screenshot
+2025-05-22 17:50:36 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:50:48 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:50:57 INFO  BaseTest:89 -  testcase testAlertExample passed
+2025-05-22 17:51:06 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:51:19 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:51:21 INFO  BaseTest:21 - clicked on  contacts button
+2025-05-22 17:51:25 INFO  BaseTest:24 - opened contact page by using testcase testClickUsingJS
+2025-05-22 17:51:30 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 17:51:42 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 17:51:49 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-22 18:02:25 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 18:02:53 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 18:02:54 INFO  BaseTest:34 - Captured Homepage Screenshot
+2025-05-22 18:03:03 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 18:03:17 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 18:03:25 INFO  BaseTest:109 -  testcase testAlertExample passed
+2025-05-22 18:03:34 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 18:03:48 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 18:03:50 INFO  BaseTest:25 - clicked on  contacts button
+2025-05-22 18:03:54 INFO  BaseTest:28 - testcase testClickUsingJS passed
+2025-05-22 18:04:00 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-22 18:04:13 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-22 18:04:24 INFO  BaseTest:81 -  testcase testHoverAction passed
+2025-05-23 15:47:11 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-23 15:47:54 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-23 15:47:59 INFO  BaseTest:18 - home page is opened
+2025-05-23 15:48:01 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-23 15:48:05 INFO  BaseTest:26 - Login to your account page is opened
+2025-05-23 15:48:22 INFO  BaseTest:32 - logged with email and password are bashaboinaraju939@gmail.com Capstone@123
+2025-05-23 15:48:22 INFO  BaseTest:36 - Login test is passed
+2025-05-23 15:48:28 INFO  BaseTest:40 - Successfully clicked on  Logout button
+2025-05-23 15:48:28 INFO  BaseTest:44 - redirected to login page
+2025-05-23 15:49:23 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-23 15:49:37 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-23 15:49:38 INFO  BaseTest:18 - home page is opened
+2025-05-23 15:49:39 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-23 15:49:43 INFO  BaseTest:25 - New User Signup! is visible
+2025-05-23 15:49:44 INFO  BaseTest:31 - signup successfully with email and name are sravan123@test.com sravan
+2025-05-23 15:50:28 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-23 15:50:42 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-23 15:50:42 INFO  BaseTest:14 - home page is opened
+2025-05-23 15:50:47 INFO  BaseTest:17 - clicked on  Products button
+2025-05-23 15:50:47 INFO  BaseTest:21 - one Product is added to cart
+2025-05-23 15:50:53 INFO  BaseTest:28 -  Cart page is opened to see products
+2025-05-23 15:50:57 INFO  BaseTest:32 - one Product is present in cart
+2025-05-23 15:50:58 INFO  BaseTest:37 - Product Details are price:"Rs. 500", Quantity:"1",  total_price:"Rs. 500" 
+2025-05-23 15:53:21 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-23 15:53:57 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-23 15:54:02 INFO  BaseTest:18 - home page is opened
+2025-05-23 15:54:03 INFO  BaseTest:21 - clicked on  Signup/Login button
+2025-05-23 15:54:08 INFO  BaseTest:26 - Login to your account page is opened
+2025-05-23 15:54:17 INFO  BaseTest:32 - logged with email and password are bashaboinaraju939@gmail.com Capstone@123
+2025-05-23 15:54:17 INFO  BaseTest:36 - Login test is passed
+2025-05-23 15:54:23 INFO  BaseTest:40 - Successfully clicked on  Logout button
+2025-05-23 15:54:23 INFO  BaseTest:44 - redirected to login page
+2025-05-25 12:40:41 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 12:41:18 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 12:41:19 INFO  BaseTest:14 - home page is opened
+2025-05-25 12:41:25 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 12:41:26 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 12:41:42 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 12:46:16 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 12:46:54 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 12:46:55 INFO  BaseTest:14 - home page is opened
+2025-05-25 12:47:01 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 12:47:01 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 12:47:27 INFO  BaseTest:28 -  Cart page is opened to see products
+2025-05-25 12:47:31 INFO  BaseTest:32 - one Product is present in cart
+2025-05-25 12:47:32 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 12:49:35 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 12:49:53 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 12:49:53 INFO  BaseTest:14 - home page is opened
+2025-05-25 12:50:00 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 12:50:00 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 12:50:25 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:05:47 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:06:20 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:06:20 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:06:34 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:06:34 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 13:07:11 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:09:45 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:10:03 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:10:03 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:10:09 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:10:09 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 13:10:48 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:16:10 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:16:42 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:16:43 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:16:48 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:16:49 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 13:17:25 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:22:03 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:22:35 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:22:36 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:22:43 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:22:44 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 13:23:19 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:27:24 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:27:56 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:27:56 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:28:08 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:28:49 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:30:39 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:30:55 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:30:55 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:31:01 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:31:42 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:33:12 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:33:43 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:33:43 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:33:50 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:33:51 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 13:34:16 ERROR BaseTest:96 - Test failed. Screenshot captured.
+2025-05-25 13:35:14 INFO  BaseTest:57 - Launching browser: chrome
+2025-05-25 13:35:29 INFO  BaseTest:75 - Browser launched with URL: https://automationexercise.com/
+2025-05-25 13:35:30 INFO  BaseTest:14 - home page is opened
+2025-05-25 13:35:35 INFO  BaseTest:17 - clicked on  Products button
+2025-05-25 13:35:36 INFO  BaseTest:21 - one Product is added to cart
+2025-05-25 13:35:42 INFO  BaseTest:30 -  Cart page is opened to see products
+2025-05-25 13:35:46 INFO  BaseTest:35 - Both products present in cart
+2025-05-25 13:35:46 INFO  BaseTest:40 - Product Details are price:"Rs. 500", Quantity:"1",  total_price:"Rs. 500" 
