@@ -51,15 +51,15 @@ public class AccountPage {
         driver.findElement(newsletter).click();
         driver.findElement(offers).click();
 
-        driver.findElement(firstName).sendKeys("John");
-        driver.findElement(lastName).sendKeys("Doe");
-        driver.findElement(company).sendKeys("OpenAI");
-        driver.findElement(address1).sendKeys("123 Main St");
-        driver.findElement(address2).sendKeys("Suite 100");
-        new Select(driver.findElement(country)).selectByVisibleText("United States");
-        driver.findElement(state).sendKeys("California");
-        driver.findElement(city).sendKeys("San Francisco");
-        driver.findElement(zipcode).sendKeys("94105");
+        driver.findElement(firstName).sendKeys("Bashaboina");
+        driver.findElement(lastName).sendKeys("raju");
+        driver.findElement(company).sendKeys("werg");
+        driver.findElement(address1).sendKeys("wef");
+        driver.findElement(address2).sendKeys("hgfdsa");
+        new Select(driver.findElement(country)).selectByVisibleText("India");
+        driver.findElement(state).sendKeys("banglore");
+        driver.findElement(city).sendKeys("bangalore");
+        driver.findElement(zipcode).sendKeys("2345");
         driver.findElement(mobile).sendKeys("1234567890");
     }
 
@@ -79,11 +79,5 @@ public class AccountPage {
         return driver.findElement(loggedInAs).isDisplayed();
     }
 
-//    public void clickDeleteAccount() {
-//        driver.findElement(deleteAccountBtn).click();
-//    }
-//
-//    public boolean isAccountDeletedVisible() {
-//        return driver.findElement(accountDeletedText).isDisplayed();
-//    }
+
 }

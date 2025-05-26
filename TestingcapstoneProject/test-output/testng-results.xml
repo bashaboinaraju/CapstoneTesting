@@ -1,36 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-25T13:35:14 IST" name="Default suite" finished-at="2025-05-25T13:35:56 IST" duration-ms="41800">
+  <suite started-at="2025-05-26T11:38:20 IST" name="Default suite" finished-at="2025-05-26T11:40:42 IST" duration-ms="142195">
     <groups>
     </groups>
-    <test started-at="2025-05-25T13:35:14 IST" name="Default test" finished-at="2025-05-25T13:35:56 IST" duration-ms="41800">
-      <class name="tests.AddProductsToCartTest">
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:tests.AddProductsToCartTest@10feca44]" started-at="2025-05-25T13:35:14 IST" name="loadConfig" finished-at="2025-05-25T13:35:14 IST" duration-ms="18" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AddProductsToCartTest@10feca44]" started-at="2025-05-25T13:35:14 IST" name="setup" finished-at="2025-05-25T13:35:29 IST" duration-ms="15652" status="PASS">
+    <test started-at="2025-05-26T11:38:20 IST" name="Default test" finished-at="2025-05-26T11:40:42 IST" duration-ms="142195">
+      <class name="tests.SpecialTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:38:20 IST" name="setup" finished-at="2025-05-26T11:39:00 IST" duration-ms="40427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testAddProductsToCart()[pri:0, instance:tests.AddProductsToCartTest@10feca44]" started-at="2025-05-25T13:35:29 IST" name="testAddProductsToCart" finished-at="2025-05-25T13:35:46 IST" duration-ms="16539" status="PASS">
+        <test-method signature="CaptureScreenshot()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:00 IST" name="CaptureScreenshot" finished-at="2025-05-26T11:39:02 IST" duration-ms="2413" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAddProductsToCart -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.AddProductsToCartTest@10feca44]" started-at="2025-05-25T13:35:46 IST" name="tearDown" finished-at="2025-05-25T13:35:56 IST" duration-ms="9532" status="PASS">
+        </test-method> <!-- CaptureScreenshot -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:02 IST" name="tearDown" finished-at="2025-05-26T11:39:08 IST" duration-ms="5256" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testAddProductsToCart status=SUCCESS method=AddProductsToCartTest.testAddProductsToCart()[pri:0, instance:tests.AddProductsToCartTest@10feca44] output={null}]]]>
+                <![CDATA[[TestResult name=CaptureScreenshot status=SUCCESS method=SpecialTests.CaptureScreenshot()[pri:0, instance:tests.SpecialTests@be35cd9] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- tests.AddProductsToCartTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:08 IST" name="setup" finished-at="2025-05-26T11:39:23 IST" duration-ms="15209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAlertExample()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:23 IST" name="testAlertExample" finished-at="2025-05-26T11:39:35 IST" duration-ms="12088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlertExample -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:35 IST" name="tearDown" finished-at="2025-05-26T11:39:41 IST" duration-ms="5624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAlertExample status=SUCCESS method=SpecialTests.testAlertExample()[pri:0, instance:tests.SpecialTests@be35cd9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:41 IST" name="setup" finished-at="2025-05-26T11:39:51 IST" duration-ms="9968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testClickUsingJS()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:51 IST" name="testClickUsingJS" finished-at="2025-05-26T11:39:59 IST" duration-ms="8045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickUsingJS -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:39:59 IST" name="tearDown" finished-at="2025-05-26T11:40:04 IST" duration-ms="4931" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testClickUsingJS status=SUCCESS method=SpecialTests.testClickUsingJS()[pri:0, instance:tests.SpecialTests@be35cd9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:40:04 IST" name="setup" finished-at="2025-05-26T11:40:18 IST" duration-ms="14346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testHoverAction()[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:40:18 IST" name="testHoverAction" finished-at="2025-05-26T11:40:35 IST" duration-ms="16806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoverAction -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.SpecialTests@be35cd9]" started-at="2025-05-26T11:40:35 IST" name="tearDown" finished-at="2025-05-26T11:40:42 IST" duration-ms="6919" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHoverAction status=SUCCESS method=SpecialTests.testHoverAction()[pri:0, instance:tests.SpecialTests@be35cd9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SpecialTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

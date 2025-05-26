@@ -15,15 +15,14 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeSuite;
 
+import pages.AccountPage;
+import pages.CartPage;
+import pages.HomePage;
 import pages.LoginPage;
 import pages.ProductsPage;
 import pages.RegisterPage;
 import pages.SignupPage;
-import pages.AccountPage;
-import pages.CartPage;
-import pages.HomePage;
 import utils.Helper;
 
 public class BaseTest {
@@ -41,15 +40,16 @@ public class BaseTest {
     public Logger log = Logger.getLogger(BaseTest.class);
 
 
-    @BeforeSuite
-    public void loadConfig() throws IOException {
-        prop = new Properties();
-        FileInputStream fis = new FileInputStream("src/test/resources/config.properties");
-        prop.load(fis);
-    }
-
     @BeforeMethod
     public void setup() {
+    	prop = new Properties();
+    	try {
+            FileInputStream fis = new FileInputStream("src/test/resources/config.properties");
+            prop.load(fis);
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw new RuntimeException("Failed to load configuration file.");
+        }
     	
     	wait = new WebDriverWait(driver, Duration.ofSeconds(20));
         String browser = prop.getProperty("browser");

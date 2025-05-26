@@ -1,0 +1,13 @@
+pages\ProductsPage.class
+utils\Helper.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+tests\SpecialTests.class
+pages\RegisterPage.class
+tests\LoginTest.class
+tests\AddProductsToCartTest.class
+pages\SignupPage.class
+base\BaseTest.class
+tests\RegisterUserTest.class
+pages\AccountPage.class
