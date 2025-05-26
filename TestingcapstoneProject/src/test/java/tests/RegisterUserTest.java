@@ -21,8 +21,8 @@ public class RegisterUserTest extends BaseTest {
             Assert.assertTrue(signup.isNewUserSignupVisible(), "'New User Signup!' not visible");
             log.info("New User Signup! is visible");
             
-         String randomEmail = "sravan123"+ "@test.com";
-          String name= "sravan";
+         String randomEmail = "srikar321"+ "@test.com";
+          String name= "srikar";
             signup.enterNameAndEmail(name, randomEmail);
             signup.clickSignupButton();
             log.info("signup successfully with email and name are " + randomEmail +" "+ name);

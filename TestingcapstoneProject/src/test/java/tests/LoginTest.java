@@ -21,8 +21,8 @@ public class LoginTest extends BaseTest {
         	 Assert.assertTrue(login.isLoginHeaderVisible(), "'Login to your account' is not visible");
         	 log.info("Login to your account page is opened");
 
-            String email = "bashaboinaraju939@gmail.com";   // Use real registered credentials
-            String password = "Capstone@123";
+            String email = "srikar321@test.com";   // Use real registered credentials
+            String password = "Test@123";
 
             login.login(email, password);
             log.info("logged with email and password are " + email +" "+password);
